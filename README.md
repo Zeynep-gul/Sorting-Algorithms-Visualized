@@ -1,1 +1,1 @@
-# SIRALAMA-ALGOR-TMALARI-G-RSELLE-T-R-C-S-
+# Sorting Algorithms Visualized
